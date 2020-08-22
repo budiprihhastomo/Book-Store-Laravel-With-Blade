@@ -2,7 +2,7 @@
 
 ## 🎉 About Book Store
 
-Book Store is an application about book management CRUD. This application was created using the base Laravel Framework as the backend service and Laravel Blade as the frontend.
+Book Store is an application about book management CRUD. This application was created using the base Laravel Framework as the backend service and Laravel Blade Engine as the frontend.
 
 ## ✨ Getting Started
 
