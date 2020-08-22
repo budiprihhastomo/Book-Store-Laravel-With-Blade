@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To run this project, yarn / npm tools and composer are needed and make sure you have imported the book_store.sql database which is already available in this project. Don't forget to setup the ENVIRONTMENT_VARIBALE or .env file.
+To run this project, composer are needed and make sure you have imported the book_store.sql database which is already available in this project. Don't forget to setup the ENVIRONTMENT_VARIBALE or .env file.
 
 ## 🚀 Installation And Usage
 
@@ -28,7 +28,6 @@ git clone https://github.com/budiprihhastomo/book-store.git
 
 ```
 composer install && npm install
-
 ```
 
 -   Run this command, to migrate the database to your local machine.
